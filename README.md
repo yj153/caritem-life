@@ -1,6 +1,6 @@
-caritem.life/dcar 당근용 서브페이지
-- 기존 카아이템 페이지와 디자인·상품·이미지는 동일합니다.
-- 넥센타이어 CPA 링크: https://tedlsywh.adpt.kr
-- 장기렌트 CPA 링크: https://www.albarich.com/pt/KQG61LutKA
-- GitHub 저장소 루트에 dcar 폴더 전체를 업로드하세요.
-- 업로드 후 주소: https://caritem.life/dcar/
+caritem.life 최종 v9
+- 사용자가 제공한 12개 원본 상품 사진만 사용했습니다.
+- 이미지 교체·생성 없이 외곽의 불필요한 흰 여백만 줄였습니다.
+- 12개 상품 사진을 기존보다 약 10~15% 크게 표시했습니다.
+- 제품 전체가 잘리지 않도록 contain 방식을 유지했습니다.
+- ZIP 내부 파일 전체를 GitHub 저장소 루트에 업로드하세요.
