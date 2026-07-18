@@ -210,11 +210,10 @@ body{padding-bottom:86px}.header-inner{height:86px}.logo-image{height:58px}.nav{
   .hero-photo-collage a{height:165px;border-radius:16px}
 }
 
-/* FINAL GitHub upload: enlarge all 12 supplied product photos */
+/* v9 final: enlarge all 12 supplied product photos */
 .product-image-wrap{
   min-height:390px !important;
   padding:8px !important;
-  overflow:hidden !important;
   background:#fff !important;
 }
 .product-image{
