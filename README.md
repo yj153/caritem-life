@@ -1,6 +1,9 @@
-caritem.life 최종 v9
-- 사용자가 제공한 12개 원본 상품 사진만 사용했습니다.
-- 이미지 교체·생성 없이 외곽의 불필요한 흰 여백만 줄였습니다.
-- 12개 상품 사진을 기존보다 약 10~15% 크게 표시했습니다.
-- 제품 전체가 잘리지 않도록 contain 방식을 유지했습니다.
-- ZIP 내부 파일 전체를 GitHub 저장소 루트에 업로드하세요.
+# caritem.life/ncp
+
+네이버 CPA 광고 유입용 자동차 랜딩페이지입니다.
+
+- 장기렌트 고유링크: https://www.albarich.com/pt/VUdDuYpzcG
+- 넥센타이어 렌탈 고유링크: https://xudllbmn.adpt.kr
+- 공개 주소: https://caritem.life/ncp/
+
+`CNAME`은 저장소 루트에만 둡니다.
