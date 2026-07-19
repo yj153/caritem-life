@@ -806,3 +806,27 @@ body{padding-bottom:86px}.header-inner{height:86px}.logo-image{height:58px}.nav{
     min-height:34px;
   }
 }
+
+
+/* 최종: 상품 12개 사진 확대 */
+.product-image-wrap{
+  min-height:355px !important;
+  padding:6px !important;
+  overflow:hidden !important;
+}
+.product-image{
+  width:100% !important;
+  height:343px !important;
+  object-fit:contain !important;
+  object-position:center center !important;
+  display:block !important;
+}
+@media(max-width:860px){
+  .product-image-wrap{
+    min-height:285px !important;
+    padding:5px !important;
+  }
+  .product-image{
+    height:275px !important;
+  }
+}
